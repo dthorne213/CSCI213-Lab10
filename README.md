@@ -8,5 +8,5 @@ which extends the abstract Vehicle class. The Car class contains the following:
 * the toString method
 * the equals method
 * a copy method
-[Epic Games](https://store.epicgames.com/en-US/)
+* [Epic Games](https://store.epicgames.com/en-US/)
 
